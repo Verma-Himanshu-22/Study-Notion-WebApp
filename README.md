@@ -84,21 +84,3 @@ To run this project locally, follow the steps below:
     ```
 
 4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the frontend.
-
-## Contributing
-
-Contributions are welcome! To contribute to the project:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a Pull Request.
-
-## Contact
-
-For any inquiries or collaboration opportunities, please contact me at:
-
-- **Email**: hsahu8268@gmail.com
-- **LinkedIn**: [Himanshu Sahu](https://www.linkedin.com/in/himanshu-sahu-/)
-
-
